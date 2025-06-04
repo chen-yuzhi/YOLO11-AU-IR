@@ -1,4 +1,4 @@
-# A Lightweight Data Instance Segmentation Framework for Small UAV Detection in Infrared Imagery with Edge Deployment
+# Lightweight Instance Segmentation for Infrared UAV Detection on Edge Devices
 ---
 
 ## Introduction
