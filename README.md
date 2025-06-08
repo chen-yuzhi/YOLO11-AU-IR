@@ -1,4 +1,4 @@
-# Lightweight Instance Segmentation for Infrared UAV Detection on Edge Devices
+# Detecting infrared UAVs on edge devices through lightweight instance segmentation
 ---
 
 ## Introduction
