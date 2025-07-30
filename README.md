@@ -11,7 +11,7 @@ YOLO11-AU-IR is a lightweight instance segmentation framework aimed at addressin
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/chen-yuzhi/YOLO11-AU-IR
+git clone https://github.com/chen-yuzhi/YOLO11-AU-IR.git
 cd YOLO11-AU-IR
 ```
 
