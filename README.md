@@ -1,10 +1,10 @@
 # Detecting infrared UAVs on edge devices through lightweight instance segmentation
----
+
 
 ## Introduction
 YOLO11-AU-IR is a lightweight instance segmentation framework aimed at addressing small, low-contrast UAV detection in infrared imagery under real-time and resource-constrained conditions. Unlike standard bounding-box-based methods, our approach leverages pixel-level segmentation masks to capture fine-grained details of small IR targets, thus improving detection accuracy even in challenging environments.
 
----
+
 
 
 ## 🚀 Quick Start
