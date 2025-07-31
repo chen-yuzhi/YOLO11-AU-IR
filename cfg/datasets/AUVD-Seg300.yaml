@@ -1,0 +1,10 @@
+path:  ./AUVD-seg300/ # dataset root dir
+train: train/images # train images (relative to 'path')
+val: valid/images # val images (relative to 'path')
+test: test/images # test images (relative to 'path')
+
+# Classes
+names:
+  0: large uav
+  1: normal uav
+  2: tiny uav
